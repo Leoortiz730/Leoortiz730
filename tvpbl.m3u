@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,benguturk
+http://135.125.234.9:8081/benguturk/index.m3u8
+#EXTINF:-1,eurostar
+http://135.125.234.9:8081/eurostar/index.m3u8
+#EXTINF:-1,trt2
+http://135.125.234.9:8081/trt2/index.m3u8
+#EXTINF:-1,agrotv
+http://135.125.234.9:8081/agrotv/index.m3u8
+#EXTINF:-1,foxtv HD
+http://135.125.234.9:8081/foxtv/index.m3u8
+#EXTINF:-1,ahaber HD
+http://135.125.234.9:8081/ahaber/index.m3u8
+#EXTINF:-1,aspor HD
+http://135.125.234.9:8081/aspor/index.m3u8
+#EXTINF:-1,trtcocuk
+http://135.125.234.9:8081/trtcocuk/index.m3u8
+#EXTINF:-1,trtmuzik
+http://135.125.234.9:8081/trtmuzik/index.m3u8
+#EXTINF:-1,tv100
+http://135.125.234.9:8081/tv100/index.m3u8
+#EXTINF:-1,dmax
+http://135.125.234.9:8081/dmax/index.m3u8
+#EXTINF:-1,kanald HD
+http://135.125.234.9:8081/kanald/index.m3u8
+#EXTINF:-1,trtspor HD
+http://135.125.234.9:8081/trtspor/index.m3u8
+#EXTINF:-1,aztv
+http://135.125.234.9:8081/aztv/index.m3u8
+#EXTINF:-1,cbcsport
+http://135.125.234.9:8081/cbcsport/index.m3u8
+#EXTINF:-1,haberturk HD
+http://135.125.234.9:8081/haberturk/index.m3u8
+#EXTINF:-1,arb24
+http://135.125.234.9:8081/arb24/index.m3u8
+#EXTINF:-1,cbc
+http://135.125.234.9:8081/cbc/index.m3u8
+#EXTINF:-1,startv HD
+http://135.125.234.9:8081/startv/index.m3u8
+#EXTINF:-1,showtv HD
+http://135.125.234.9:8081/showtv/index.m3u8
+#EXTINF:-1,trt1 HD
+http://135.125.234.9:8081/trt1/index.m3u8
+#EXTINF:-1,tv8 HD
+http://135.125.234.9:8081/tv8/index.m3u8
+#EXTINF:-1,tv5
+http://135.125.234.9:8081/tv5/index.m3u8
+#EXTINF:-1,tlc
+http://135.125.234.9:8081/tlc/index.m3u8
+#EXTINF:-1,muztv
+http://135.125.234.9:8081/muztv/index.m3u8
+#EXTINF:-1,cartoon
+http://135.125.234.9:8081/cartoon/index.m3u8
